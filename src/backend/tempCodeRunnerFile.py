@@ -1,1 +1,0 @@
-cv2.rectangle(current_frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
