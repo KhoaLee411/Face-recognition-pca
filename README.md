@@ -52,5 +52,8 @@ python video_streaming.py
 http://127.0.0.1:8080/static/index.html
 
 # Demo
-![Demo](/demo-ezgif.com-video-to-gif-converter.gif)
+![Demo](/demo-p1.gif)
+![Demo](/demo-p2.gif)
+![Demo](/demo-p3.gif)
+
 
