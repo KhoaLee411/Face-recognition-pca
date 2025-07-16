@@ -50,3 +50,7 @@ python video_streaming.py
 
 ## 4. Access the Web Interface
 http://127.0.0.1:8080/static/index.html
+
+# Demo
+![Demo](/demo-ezgif.com-video-to-gif-converter.gif)
+
